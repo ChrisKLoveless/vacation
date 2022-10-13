@@ -1,5 +1,6 @@
 body {
   background-color: rgb(232, 232, 193);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 img {
@@ -9,4 +10,14 @@ img {
 
 .card {
   background: rgb(227, 61, 61);
+  text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: rgb(227, 61, 61);
+}
+
+.blockquote {
+  line-height: 1cm;
 }
